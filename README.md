@@ -46,12 +46,15 @@
 #### 📺 Alguns videos do meu Canal  
 
 
-<p align="center">
+<p align="left">
   <a href="https://www.youtube.com/watch?v=r9buAwVBDhA">
     <img src="https://img.youtube.com/vi/r9buAwVBDhA/mqdefault.jpg" width="150">
   </a>
   <a href="https://www.youtube.com/shorts/iSGHhH0sMfM">
     <img src="https://img.youtube.com/vi/iSGHhH0sMfM/mqdefault.jpg" width="150">
+  </a>
+  <a href="https://www.youtube.com/shorts/Doy3oDTtPIY">
+    <img src="https://img.youtube.com/vi/Doy3oDTtPIY/mqdefault.jpg" width="150">
   </a>
   <a href="https://www.youtube.com/shorts/Doy3oDTtPIY">
     <img src="https://img.youtube.com/vi/Doy3oDTtPIY/mqdefault.jpg" width="150">
