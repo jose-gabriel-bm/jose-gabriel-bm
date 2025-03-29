@@ -43,7 +43,7 @@
 
 - Bacharelado em <strong>Sistemas de Informação </strong>[UNIFASAM, 2019 - 2022 ]
 
-#### 📺 Alguns videos do meu Canal  
+<!-- #### 📺 Alguns videos do meu Canal  
 
 
 <p align="left">
@@ -59,7 +59,7 @@
   <a href="https://www.youtube.com/shorts/Doy3oDTtPIY">
     <img src="https://img.youtube.com/vi/Doy3oDTtPIY/mqdefault.jpg" width="150">
   </a>
-</p>
+</p> -->
 
 
 #### 💡 Sempre buscando aprender e compartilhar conhecimento! Vamos trocar ideias?  
